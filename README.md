@@ -1,7 +1,7 @@
 # Robotron
 **Construa robôs para salvar o planeta Terra de uma invasão alienígena.**
 
-Projeto desenvolvido durante as semanas 4 do Programa Desenvolve 2023, em que foram aprendidos diversos conteúdos, como:
+Projeto desenvolvido durante a semana 12 do Programa Desenvolve 2023, em que foram aprendidos diversos conteúdos, como:
 
 * Entendendo a interação do JavaScript com HTML e CSS
 * Utilizando o JavaScript em uma página real
